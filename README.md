@@ -1,6 +1,4 @@
-# PRODIGY_WD_03
-
-Here's a GitHub repository description for your tic-tac-toe web application:
+# Tic-Tac-Toe Game
 
 ❌⭕ Interactive Tic-Tac-Toe Game
 A classic tic-tac-toe game built with HTML, CSS, and JavaScript featuring both player vs player and player vs AI game modes. Enjoy the timeless strategy game with a modern, responsive interface and intelligent gameplay mechanics.
